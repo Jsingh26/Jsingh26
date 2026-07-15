@@ -1,83 +1,102 @@
 <h1 align="center">Hi 👋, I'm Japinder Singh</h1>
-<h3 align="center">Frontend Developer | Full-Stack Enthusiast | CSE Undergrad @ GGSIPU</h3>
+<h3 align="center">Aspiring Software Development Engineer | Full-Stack (MERN) & Python Developer | Ex-DIPAS (DRDO)</h3>
 
 ---
 
-### 🚀 About Me
+## 🚀 About Me
 
-- 🎓 I'm currently pursuing **B.Tech in Computer Science Engineering** from GGSIPU (2022–2026), with a **CGPA of 9.1/10**
-- 💻 I love building real-world projects, participating in hackathons, and learning modern web technologies
-- 🎨 Skilled in **Frontend Development** + **Photoshop & Graphic Design**
-- 🌱 Currently learning **Next.js**, **DevOps**, and contributing to **open source**
-- 👨‍💻 All of my projects are available at [My GitHub](https://github.com/Jsingh26)
-- 📫 How to reach me: **japinder2004@gmail.com**
+- 🎓 B.Tech Computer Science Engineering @ GGSIPU (2022–2026)
+- 📈 CGPA: **9.28/10**
+- 💻 Passionate about **Software Engineering, Backend Development, System Design, and Scalable Systems**
+- 🔥 Solved **400+ DSA problems** on LeetCode
+- 🏢 Former **Software Development Intern at DIPAS (DRDO)**
+- 🌱 Currently exploring **System Design, Cloud Computing, DevOps, and Distributed Systems**
+- 📚 Co-authored a research paper on **Deepfake & AI-Generated Image Detection**
+- 🚀 Open to **SDE-1, Backend, and Full-Stack opportunities**
+
+📫 Reach me at: **japinder2004@gmail.com**
 
 ---
 
-### 🛠️ Tech Stack
+## 🛠️ Tech Stack
 
-**Languages:**  
-![JavaScript](https://img.shields.io/badge/JavaScript-black?style=flat&logo=javascript) 
-![Python](https://img.shields.io/badge/Python-black?style=flat&logo=python) 
-![Java](https://img.shields.io/badge/Java-black?style=flat&logo=java) 
+### Languages
+![Java](https://img.shields.io/badge/Java-black?style=flat&logo=java)
+![Python](https://img.shields.io/badge/Python-black?style=flat&logo=python)
 ![C++](https://img.shields.io/badge/C++-black?style=flat&logo=c%2B%2B)
+![JavaScript](https://img.shields.io/badge/JavaScript-black?style=flat&logo=javascript)
+![TypeScript](https://img.shields.io/badge/TypeScript-black?style=flat&logo=typescript)
 
-**Frontend:**  
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white) 
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3) 
-![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react) 
+### Frontend
+![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react)
+![Next.js](https://img.shields.io/badge/Next.js-black?style=flat&logo=next.js)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css)
 
-**Backend & Database:**  
-![Node.js](https://img.shields.io/badge/Node.js-black?style=flat&logo=node.js) 
-![Express.js](https://img.shields.io/badge/Express.js-black?style=flat&logo=express) 
-![MongoDB](https://img.shields.io/badge/MongoDB-black?style=flat&logo=mongodb) 
-![SQL](https://img.shields.io/badge/SQL-black?style=flat&logo=mysql)
+### Backend
+![Node.js](https://img.shields.io/badge/Node.js-black?style=flat&logo=node.js)
+![Express.js](https://img.shields.io/badge/Express.js-black?style=flat&logo=express)
+![REST API](https://img.shields.io/badge/REST-API-blue)
 
-**Tools:**  
-![Git](https://img.shields.io/badge/Git-black?style=flat&logo=git) 
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github) 
-![Postman](https://img.shields.io/badge/Postman-black?style=flat&logo=postman) 
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visual-studio-code)
+### Databases & Cloud
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-black?style=flat&logo=postgresql)
+![MongoDB](https://img.shields.io/badge/MongoDB-black?style=flat&logo=mongodb)
+![MySQL](https://img.shields.io/badge/MySQL-black?style=flat&logo=mysql)
+![Docker](https://img.shields.io/badge/Docker-black?style=flat&logo=docker)
+![AWS](https://img.shields.io/badge/AWS-black?style=flat&logo=amazonaws)
 
-
----
-
-### 📌 Highlight Projects
-
-- 🎨 [**Artify**](https://github.com/Jsingh26/Artify) – Online art auction platform (PHP, MySQL)
-- 🛡️ [**SafeSphere**](https://github.com/Jsingh26/SafeSphere) – Safety navigation tool for women using real-time maps
-- 🍔 [**Dine-in-Delight**](https://github.com/Jsingh26/dine-in-delight) – Food delivery web app with login system
-- 📊 [**Car Comparison Dashboard**](https://github.com/Jsingh26/streamlit-example) – Dashboard for analyzing car data (Python, Streamlit)
+### Tools
+![Git](https://img.shields.io/badge/Git-black?style=flat&logo=git)
+![GitHub](https://img.shields.io/badge/GitHub-black?style=flat&logo=github)
+![Postman](https://img.shields.io/badge/Postman-black?style=flat&logo=postman)
+![VS Code](https://img.shields.io/badge/VS_Code-black?style=flat&logo=visual-studio-code)
 
 ---
 
-### 🏆 Achievements
+## 📌 Featured Projects
 
-- 🏅 **Finalist** at College Hackathon – "SafeSphere" for women safety  
-- ✍️ **Chief Magazine Editor** – Led content and design for department magazine  
-- 📜 Certifications:
-  - IBM Full Stack Development (Coursera)
-  - 100xDevs Cohort 2.0 (MERN, DevOps, Open Source)
+### 🤖 AI Customer Support Platform
+**React • TypeScript • Express • PostgreSQL • Docker**
+
+- Built a Dockerized AI support platform with document ingestion and chat support
+- Implemented PostgreSQL Full-Text Search for efficient knowledge retrieval
+- Added auto-escalation system for unanswered customer queries
+- Developed embeddable JavaScript chat widget for businesses
+
+### 📊 Project Management System (DRDO)
+**React • Node.js • SQLite • JWT**
+
+- Managed 20+ concurrent research projects
+- Implemented RBAC authentication and approval workflows
+- Developed project tracking, budget monitoring, and analytics dashboards
+- Reduced manual project tracking efforts significantly
+
+### 🧠 Deepfake & AI Image Detector
+**PyTorch • EfficientNet-B4 • Computer Vision**
+
+- Achieved **94.5% detection accuracy**
+- Published research at **ICAMC 2026**
+- Built dual-stream architecture for robust image authenticity detection
 
 ---
 
-### 📈 GitHub Stats
+## 🏆 Achievements
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Jsingh26&show_icons=true&theme=radical" alt="Japinder's GitHub Stats" width="48%" />
-  <img src="https://streak-stats.demolab.com/?user=Jsingh26&theme=radical" alt="GitHub Streak" width="48%" />
-</p>
-
----
-
-### 📬 Let's Connect
-
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/japinder-singh-772646262)  
-[![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat&logo=github)](https://github.com/Jsingh26)  
-[![Email](https://img.shields.io/badge/-Email-red?style=flat&logo=gmail&logoColor=white)](mailto:japinder2004@gmail.com)
+- 📄 Co-authored Research Paper published at **ICAMC 2026**
+- 🏢 Software Development Intern at **DIPAS (DRDO)**
+- 🧩 Solved **400+ DSA Problems**
+- 🎯 LeetCode Rating: **1600+**
+- 🏅 Finalist in multiple inter-college hackathons
+- 📰 Chief Magazine Editor, Computer Science Department
 
 ---
 
-> “The best way to learn is by doing. Start small, keep building.”
 
+## 📬 Connect With Me
+
+- 💼 LinkedIn: https://linkedin.com/in/JapinderSingh26
+- 💻 GitHub: https://github.com/Jsingh26
+- 📧 Email: japinder2004@gmail.com
+
+---
+
+> "Great software is built one commit at a time."
