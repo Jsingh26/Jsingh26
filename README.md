@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Japinder Singh</h1>
-<h3 align="center">Aspiring Software Development Engineer | Full-Stack (MERN) & Python Developer | Ex-DIPAS (DRDO)</h3>
+<h3 align="center">Aspiring Software Development Engineer | Full-Stack (MERN) & AI Developer Engineer | Ex-DIPAS (DRDO)</h3>
 
 ---
 
